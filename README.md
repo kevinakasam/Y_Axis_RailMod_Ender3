@@ -21,3 +21,6 @@ The Dual Rail version does not need to be drilled. Instead, a block is printed t
 
 ## How to print?
 All parts are already aligned in the optimal position for printing. Support is not needed. Use at least PETG or better ABS (+) to print the parts. My settings: 5 walls/top/bottom, 55% infill.
+
+## What do I need to build it?
+The BOM is still in progress.
